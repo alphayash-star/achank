@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Achanak Juice - Malviya Nagar, Jaipur</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background-color: #fefefe; }
+    header { background-color: #ff4d4d; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #333; overflow: hidden; }
+    nav a { float: left; color: white; padding: 14px 16px; text-decoration: none; }
+    nav a:hover { background-color: #ddd; color: black; }
+    section { padding: 20px; }
+    .menu { display: flex; flex-wrap: wrap; gap: 20px; }
+    .juice-item { border: 1px solid #ddd; padding: 15px; width: 200px; background-color: #f9f9f9; }
+    footer { background-color: #333; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🍹 Achanak Juice</h1>
+  <p>Refreshing Taste in Malviya Nagar, Jaipur</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#menu">Menu</a>
+  <a href="#about">About Us</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+  <h2>Welcome to Achanak Juice</h2>
+  <p>We serve fresh, healthy and delicious juices at pocket-friendly prices!</p>
+</section>
+
+<section id="menu">
+  <h2>🍍 Our Juice Menu</h2>
+  <div class="menu">
+    <div class="juice-item"><strong>Orange Juice</strong><br>₹50</div>
+    <div class="juice-item"><strong>Mixed Fruit Juice</strong><br>₹70</div>
+    <div class="juice-item"><strong>Mango Shake</strong><br>₹60</div>
+    <div class="juice-item"><strong>Pineapple Juice</strong><br>₹55</div>
+    <div class="juice-item"><strong>Watermelon Juice</strong><br>₹45</div>
+    <div class="juice-item"><strong>Banana Shake</strong><br>₹50</div>
+    <div class="juice-item"><strong>Apple Juice</strong><br>₹60</div>
+    <div class="juice-item"><strong>Strawberry Shake</strong><br>₹70</div>
+    <div class="juice-item"><strong>Ganga Jamuna Juice</strong><br>₹60</div>
+    <div class="juice-item"><strong>Mosambi Juice</strong><br>₹50</div>
+  </div>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Achanak Juice has been serving the Malviya Nagar community with pure, hand-pressed juices made from fresh fruits. We believe in quality, hygiene, and affordable refreshment.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>📍 Malviya Nagar, Jaipur<br>
+     📞 Phone: +91-9876543210<br>
+     🕒 Open Daily: 9 AM – 10 PM</p>
+</section>
+
+<footer>
+  <p>© 2025 Achanak Juice. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
